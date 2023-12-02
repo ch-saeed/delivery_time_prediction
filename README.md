@@ -10,10 +10,9 @@ delivery time. Therefore, machine learning algorithms can be used to analyze his
 delivery time more accurately.
 
 ## Objectives
-- What factors can affect the time in delivering food from the restaurant to the destination location?
-- How much food delivery time prediction accuracy performance?
+- How does the distance and traffic between the restaurant and the destination affect the food delivery time?
+- How good is the food delivery time estimation accuracy?
 
 ## Conclusions
-- Rating of person in previous delivers and age 30 become is the most influential factor on the delivery time of food to the destination
-location. Person with the higher ratings  and age 30 take a less time to deliver the food than person with low ratings and age more then 30 years.
-- Model has RMSE score 36.20 and that means error between delivery time prediction and delivery time actual is 36.20 minutes
+-Delivery time of food to the destination location depends on the rating and age of the person who delivers it. People who have higher ratings and are 30 years old deliver food faster than people who have lower ratings and are older than 30 years. 
+- The model's RMSE score is 36.20, which indicates that the average difference between the predicted and actual delivery times is 36.20 minutes. 
